@@ -1,0 +1,38 @@
+.top {
+    Height: 100px;
+    background-color: rgb(0, 113, 128);
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.7);
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    padding: 40px;
+}
+
+nav ul li {
+    margin: 20px;
+}
+
+.box1 {
+    width: 300px;
+    height: 600px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.7);
+    background-color:lightseagreen;
+    position: relative;
+    top: 30px;
+    float: right;
+}
+
+
+.caixa{
+    position: relative;
+    top:100px;
+    left:400px
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSOF2uygxjTvBAFfFpqNCxwKiiH7bajwoBg&usqp=CAU);
+}
